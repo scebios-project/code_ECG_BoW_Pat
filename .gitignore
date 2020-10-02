@@ -1,0 +1,11 @@
+
+LIBSVM
+/
+SPAMS
+/
+VLfeat/
+data/
+encoding/
+histogram_distance/
+pwmetric/
+/*.asv
